@@ -1,5 +1,21 @@
 "Resource/UI/Scoreboard.res"
 {
+    "ScoreBoard"
+    {
+        "ControlName" "CTFScoreBoard"
+        "fieldName" "ScoreBoard"
+        "xpos" "0"
+        "ypos" "0"
+        "zpos" "100"
+        "wide" "f0"
+        "tall" "480"
+        "autoResize" "0"
+        "pinCorner" "0"
+        "visible" "0"
+        "enabled" "1"
+        "PaintBackgroundType" "0"
+        "ProportionalToParent" "1 1"
+
 	"scores"
 	{
 		"ControlName"		"CTFClientScoreBoardDialog"
@@ -115,7 +131,6 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"RedTeamImage"
-		"fieldName"		"BlueTeamImage"
 		"xpos"			"571"
 		"ypos"			"-5"
 		"zpos"			"20"
@@ -194,7 +209,7 @@
 		"tall"			"23"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		
 		if_mvm
@@ -285,7 +300,7 @@
 		"tall"			"23"
 		"autoResize"		"0"
 		"pinCorner"		"0"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		
 		if_mvm
