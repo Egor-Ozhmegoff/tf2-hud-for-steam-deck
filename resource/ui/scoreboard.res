@@ -458,7 +458,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerTimeLeftValue"
-		"font"			"ScoreboardMediumSmall"
+		"font"          "DefaultSmallSteamDeck"
+		"font_minmode"	"ScoreboardMediumSmall"
 		"labelText"		"%servertime%"
 		"textAlignment"		"center"
 		"xpos"			"284"
@@ -482,7 +483,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerTimeLeft"
-		"font"			"ScoreboardVerySmall"
+		"font"			"DefaultSmallSteamDeck"
+		"font_minmode"	"ScoreboardVerySmall"
 		"labelText"		"%servertimeleft%"
 		"textAlignment"		"east"
 		"xpos"			"305"

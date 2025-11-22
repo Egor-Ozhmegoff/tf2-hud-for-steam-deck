@@ -492,7 +492,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"DejaVu Sans Bold"
+				"name"		"DejaVu Sans"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -573,7 +573,7 @@ Scheme
 			"3"
 			{
 				"name"		"DejaVu Sans"
-				"tall"		"14"
+				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"768 1023"
@@ -628,7 +628,7 @@ Scheme
 			"3"
 			{
 				"name"		"DejaVu Sans"
-				"tall"		"12"
+				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
