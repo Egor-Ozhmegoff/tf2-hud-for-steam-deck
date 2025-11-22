@@ -15,6 +15,7 @@
         "enabled" "1"
         "PaintBackgroundType" "0"
         "ProportionalToParent" "1 1"
+    }
 
 	"scores"
 	{
