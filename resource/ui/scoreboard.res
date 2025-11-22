@@ -6,7 +6,7 @@
 		"fieldName"		"scoreinfo"
 		"xpos"			"cs-0.5"
 		"ypos"			"31"
-		"wide"			"640"
+		"wide"			"800"
 		"tall"			"448"
 		"autoResize"	"0"
 		"pinCorner"		"0"
