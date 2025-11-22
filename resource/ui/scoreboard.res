@@ -96,7 +96,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"RedScoreBG"
-		"xpos"			"400"
+		"xpos"			"444"
 		"ypos"			"9"
 		"wide"			"290"
 		"tall"			"71"
