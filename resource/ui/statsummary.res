@@ -1843,7 +1843,7 @@
 			"ypos_hidef"			"229"
 			"ypos_lodef"			"229"
 			"zpos"			"2"
-			"wide"			"185"
+			"wide"			"184"
 			"wide_hidef"			"540"
 			"wide_lodef"			"540"
 			"tall"			"220"
