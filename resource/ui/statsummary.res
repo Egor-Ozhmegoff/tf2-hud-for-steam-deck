@@ -1839,7 +1839,7 @@
 			"xpos"			"c+124"
 			"xpos_hidef"			"c-270"
 			"xpos_lodef"			"c-270"
-			"ypos"			"240"
+			"ypos"			"195"
 			"ypos_hidef"			"229"
 			"ypos_lodef"			"229"
 			"zpos"			"2"
