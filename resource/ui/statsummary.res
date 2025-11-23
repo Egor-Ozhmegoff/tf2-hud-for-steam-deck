@@ -315,7 +315,7 @@
 				"font"			"DefaultSmallSteamDeck"
 				"labelText"		"#StatSummary_Label_AsAnyClass"
 				"textAlignment"		"west"
-				"xpos"			"c+130"
+				"xpos"			"c+128"
 				"xpos_hidef"			"c+110"
 				"ypos"			"190"
 				"ypos_hidef"			"150"
