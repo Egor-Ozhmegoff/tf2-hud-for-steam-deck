@@ -1846,7 +1846,7 @@
 			"wide"			"185"
 			"wide_hidef"			"540"
 			"wide_lodef"			"540"
-			"tall"			"190"
+			"tall"			"220"
 			"tall_hidef"			"183"
 			"tall_lodef"			"183"
 			"autoResize"	"0"
