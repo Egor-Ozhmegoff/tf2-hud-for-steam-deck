@@ -267,7 +267,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"		"BarChartLabelA"
-				"font"			"ScoreboardVerySmall"
+				"font"			"DefaultSmallSteamDeck"
 				"font_hidef"	"Default"
 				"labelText"		"#StatSummary_StatTitle_MostPoints"
 				"textAlignment"		"east"
@@ -290,7 +290,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"		"BarChartLabelB"
-				"font"			"ScoreboardVerySmall"
+				"font"			"DefaultSmallSteamDeck"
 				"font_hidef"	"Default"
 				"labelText"		"#StatSummary_StatTitle_TotalPlaytime"
 				"textAlignment"		"west"
@@ -312,7 +312,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"		"OverallRecordLabel"
-				"font"			"ScoreboardVerySmall"
+				"font"			"DefaultSmallSteamDeck"
 				"labelText"		"#StatSummary_Label_AsAnyClass"
 				"textAlignment"		"west"
 				"xpos"			"c+130"
@@ -538,7 +538,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel1A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel1A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -559,7 +559,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel1B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel1B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -687,7 +687,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel2A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel2A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -708,7 +708,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel2B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel2B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -836,7 +836,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel3A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel3A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -857,7 +857,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel3B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel3B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -985,7 +985,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel4A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel4A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1006,7 +1006,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel4B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel4B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1134,7 +1134,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel5A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel5A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1155,7 +1155,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel5B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel5B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1283,7 +1283,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel6A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel6A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1304,7 +1304,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel6B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel6B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1432,7 +1432,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel7A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel7A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1453,7 +1453,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel7B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel7B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1581,7 +1581,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel8A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel8A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1602,7 +1602,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel8B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel8B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1730,7 +1730,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel9A"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel9A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1751,7 +1751,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel9B"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"labelText"		"%classbarlabel9B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1879,7 +1879,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord1Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord1label%"
 			"textAlignment"		"west"
@@ -1903,7 +1903,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord1Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord1value%"
 			"textAlignment"		"west"
@@ -1927,7 +1927,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord2Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord2label%"
 			"textAlignment"		"west"
@@ -1951,7 +1951,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord2Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord2value%"
 			"textAlignment"		"west"
@@ -1975,7 +1975,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord3Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord3label%"
 			"textAlignment"		"west"
@@ -1999,7 +1999,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord3Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord3value%"
 			"textAlignment"		"west"
@@ -2023,7 +2023,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord4Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord4label%"
 			"textAlignment"		"west"
@@ -2047,7 +2047,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord4Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord4value%"
 			"textAlignment"		"west"
@@ -2071,7 +2071,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord5Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord5label%"
 			"textAlignment"		"west"
@@ -2095,7 +2095,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord5Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord5value%"
 			"textAlignment"		"west"
@@ -2119,7 +2119,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord6Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord6label%"
 			"textAlignment"		"west"
@@ -2143,7 +2143,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord6Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord6value%"
 			"textAlignment"		"west"
@@ -2167,7 +2167,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord7Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord7label%"
 			"textAlignment"		"west"
@@ -2191,7 +2191,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord7Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord7value%"
 			"textAlignment"		"west"
@@ -2215,7 +2215,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord8Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord8label%"
 			"textAlignment"		"west"
@@ -2239,7 +2239,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord8Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord8value%"
 			"textAlignment"		"west"
@@ -2263,7 +2263,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord9Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord9label%"
 			"textAlignment"		"west"
@@ -2287,7 +2287,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord9Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord9value%"
 			"textAlignment"		"west"
@@ -2311,7 +2311,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord10Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord10label%"
 			"textAlignment"		"west"
@@ -2335,7 +2335,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord10Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord10value%"
 			"textAlignment"		"west"
@@ -2359,7 +2359,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord11Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord11label%"
 			"textAlignment"		"west"
@@ -2383,7 +2383,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord11Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord11value%"
 			"textAlignment"		"west"
@@ -2407,7 +2407,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord12Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord12label%"
 			"textAlignment"		"west"
@@ -2431,7 +2431,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord12Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord12value%"
 			"textAlignment"		"west"
@@ -2455,7 +2455,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord13Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord13label%"
 			"textAlignment"		"west"
@@ -2479,7 +2479,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord13Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord13value%"
 			"textAlignment"		"west"
@@ -2503,7 +2503,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord14Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord14label%"
 			"textAlignment"		"west"
@@ -2527,7 +2527,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord14Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord14value%"
 			"textAlignment"		"west"
@@ -2551,7 +2551,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord15Label"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord15label%"
 			"textAlignment"		"west"
@@ -2575,7 +2575,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord15Value"
-			"font"			"ScoreboardVerySmall"
+			"font"			"DefaultSmallSteamDeck"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord15value%"
 			"textAlignment"		"west"
@@ -2614,7 +2614,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"TipText"
-		"font"			"ScoreboardVerySmall"
+		"font"			"DefaultSmallSteamDeck"
 		"font_hidef"	"Default"
 		"labelText"		"%tiptext%"
 		"textAlignment"			"west"
