@@ -391,7 +391,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"TimerBG"
-		"xpos"			"c-67"
+		"xpos"			"c-65"
 		"xpos_minmode"	"c-60"
 		"ypos"			"-3"
 		"zpos"			"-1"
