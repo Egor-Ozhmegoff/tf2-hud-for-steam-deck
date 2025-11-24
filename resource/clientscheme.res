@@ -3248,6 +3248,18 @@ Scheme
 				"weight"		"0"
 			}
 		}
+		"AchievementTracker_NameGlow_SteamDeck"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"22"
+				"weight"	"500"
+				"blur"		"3"
+				"additive"	"1"
+				"antialias" 	"1"
+			}
+		}
 	}
 
 	//
